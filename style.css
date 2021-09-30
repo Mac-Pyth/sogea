@@ -1,0 +1,146 @@
+:root {
+    --color1: #234079;
+    --color2: #FF0000;
+    --color3: #F4F4F4;
+
+}
+
+body {
+    
+    font-family: arial;
+    
+}
+
+
+
+div.banniereH {
+    background: url(font2.png);
+    -webkit-background-size: cover;
+    -moz-background-size: cover ;
+    -o-background-size : cover ;
+    /*background-position: center;*/
+    background-size: cover;
+    color: white;
+    text-align: center;
+}
+
+div.banniereH p {
+    margin-bottom: 0px;
+    color: white;
+}
+
+img.logo {
+    height: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    margin-bottom: 0px;
+}
+
+div.bleuH {
+    background-color:var(--color1);
+    margin: 0px 0px 0px 0px;
+    padding: 10px 10px 10px 10px
+}
+
+h2 {
+    font-size: 34px;
+    margin-top: 0px;
+    text-align: center;
+    color: white;
+}
+
+h3 {
+    font-size: 20px;
+    margin-top: 0px;
+    text-align: center;
+    color: white;
+}
+
+a {
+    font-size: 20px;
+    margin: 10px 10px;
+    text-align: center;
+    display: block;
+    color: black;
+}
+
+
+.zero {
+    width: 10%;
+}
+
+
+.dix {
+    width: 30%;
+}
+.cinq {
+    width: 20%;
+    
+    
+}
+
+div.ciel {
+    background: url(ciel.jpg);
+    background-position: center;
+    background-size: cover;
+    
+}
+
+.float-right {
+    float: right;
+}
+
+p.text-avec-ligne-verticale {
+    margin-top: 0px;
+    margin-left: 50 px;
+    
+   
+}
+    
+div.text-avec-ligne-verticale {
+    margin-top: 0px;
+    border-left: 4px solid;
+    color: blue;
+    padding-left: 8px;
+    height: 50px;
+    display: inline-block;
+}
+
+div.barre-verticale {
+    height: 50px;
+    width: 4px;
+    background-color: red;
+    margin-right: 8px;
+}
+
+.esp-colon-tech {
+    width: 47%;
+}
+
+div.section {
+    
+    display: block;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+
+
+/* Page 2 et 3 */
+
+.pg-head {
+    background: url(logoG.png);
+    height: 50%;
+    
+    background-color: blue;
+}
+
+
